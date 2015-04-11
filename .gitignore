@@ -30,3 +30,5 @@ node_modules
 
 # Purescript
 build/all.js
+.psci_modules/
+bower_components/

@@ -1,5 +1,8 @@
 module Chapter2 where
 
 import Debug.Trace
+import Math
 
-main = trace "Hello, World!"
+diagonal w h = sqrt (w * w + h * h)
+main = print (diagonal 3 4)
+-- main = trace "Hello, World!"
