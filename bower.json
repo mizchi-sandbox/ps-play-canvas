@@ -13,6 +13,18 @@
     "tests"
   ],
   "dependencies": {
-    "purescript-math": "~0.1.1"
+    "purescript-math": "~0.1.1",
+    "purescript-lists": "~0.6.0",
+    "purescript-refs": "~0.1.3",
+    "purescript-canvas": "~0.2.0",
+    "purescript-control": "~0.2.6",
+    "purescript-either": "~0.1.8",
+    "purescript-arrays": "~0.3.7",
+    "purescript-tuples": "~0.3.4",
+    "purescript-monoid": "~0.2.0",
+    "purescript-foreign": "~0.4.2",
+    "purescript-random": "~0.1.3",
+    "purescript-transformers": "~0.5.4",
+    "purescript-foldable-traversable": "~0.3.1"
   }
 }

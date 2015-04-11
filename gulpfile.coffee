@@ -11,7 +11,7 @@ gulp.task 'build:purescript', ->
       ]
     .pipe plumber()
     .pipe purescript.psc {
-      main: 'Chapter2'
+      main: 'Main'
     }
     .pipe rename 'all.js'
     .pipe gulp.dest('build')

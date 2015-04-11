@@ -32,3 +32,4 @@ node_modules
 build/all.js
 .psci_modules/
 bower_components/
+output
